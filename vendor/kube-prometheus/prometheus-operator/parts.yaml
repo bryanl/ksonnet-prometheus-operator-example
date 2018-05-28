@@ -1,0 +1,7 @@
+apiVersion: 0.0.1
+kind: ksonnet.io/parts
+name: prometheus-operator
+description: >
+  Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+author: Bryan Liles <bryan@heptio.io>
+license: Apache 2.0
